@@ -41,7 +41,7 @@ git clone git@github.com:acm-uic/sig-math-spring-2024.git
 
 ## Contributing
 
-Follow the guide in the [wiki](https://github.com/acm-uic/RREF_CALC_SIGMATH/wiki/Guide-to-Contribution)
+Follow the guide in the [wiki](https://github.com/acm-uic/sig-math-spring-2024/wiki/Guide-to-Contribution)
 
 ## Contributors
 
@@ -52,7 +52,7 @@ Add your name here!
 
 * **Sam E** - [dejazzhands](https://github.com/dejazzhands)
 
-See also the list of [contributors](https://github.com/RREF_CALC_SIGMATH/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/sig-math-spring-2024/contributors) who participated in this project.
 
 ## License
 
