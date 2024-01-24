@@ -50,7 +50,7 @@ Add your name here!
 
 ## Authors
 
-* **David S** - [davidsavvy](https://github.com/davidsavvy)
+* **David** - [davidsavvy](https://github.com/davidsavvy)
 * **Sam E** - [dejazzhands](https://github.com/dejazzhands)
 
 See also the list of [contributors](https://github.com/sig-math-spring-2024/contributors) who participated in this project.
