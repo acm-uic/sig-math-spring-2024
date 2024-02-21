@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-- A C++ compiler on your local machine (MinGW for Windows)
+- Python3
 - An IDE/text editor (VSCode, Xcode on Mac, Terminal)
 - How to use Github
 ```
