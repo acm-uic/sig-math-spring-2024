@@ -51,6 +51,7 @@ Add your name here!
 ## Authors
 
 * **David** - [davidsavvy](https://github.com/davidsavvy)
+* **Soham** - [sohamkaje](https://github.com/sohamkaje)
 * **Sam E** - [dejazzhands](https://github.com/dejazzhands)
 
 See also the list of [contributors](https://github.com/sig-math-spring-2024/contributors) who participated in this project.
