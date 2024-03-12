@@ -16,16 +16,20 @@ def manageInput():
 #
 # evaluateFunction
 #
-# returns eval of that function
+# returns eval of the function (passed as parameter)
 #
 def evaluateFunction(function, x):
     return eval(function)
 
 
 #
-# outputInfo
+# outputInfo (Strongly recommend helper functions)
 #
-# [Insert Description Here]
+# Lists some information about the graph that will be built:
+# - Number of rectangles
+# - The space between each rectangle
+# - Area of each rectangle
+# - Total riemann sum
 #
 def outputInfo():
     pass
